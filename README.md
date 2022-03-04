@@ -1,4 +1,3 @@
-Hi there 👋
 
 Currently studying IT and searching for a specialization.
 Interested in Front-End.
