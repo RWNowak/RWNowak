@@ -3,6 +3,7 @@ Currently studying IT and searching for a specialization.
 Interested in Front-End.
 
 Background in linguistics, translation and content-writing.
+:poland: :norway: :uk:
 
 <!--
 **RWNowak/RWNowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
