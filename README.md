@@ -3,6 +3,7 @@ Currently studying IT and searching for a specialization.
 Interested in Front-End.
 
 Background in linguistics, translation and content-writing.
+
 :poland: :norway: :uk:
 
 <!--
