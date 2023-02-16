@@ -1,5 +1,5 @@
 
-Currently studying IT and searching for a specialization.
+Currently studying, specializing in web development.
 
 Background in translation and content-writing.
 
