@@ -1,7 +1,7 @@
 
 Currently studying IT and searching for a specialization.
 
-Background in linguistics, translation and content-writing.
+Background in translation and content-writing.
 
 <!--
 **RWNowak/RWNowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
