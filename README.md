@@ -1,5 +1,5 @@
 
-Currently studying, specializing in web development.
+Currently studying, specializing in front-end development.
 
 Background in translation and content-writing.
 
