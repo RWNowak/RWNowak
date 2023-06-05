@@ -1,11 +1,11 @@
 
-# Hi
+# Hi!
 
-- 2nd year Information Technology & Econometry student
+- 2nd year of Information Technology & Econometry (University of Gdańsk)
 
 - 🌱 Currently focusing on learning Web Development (Javascript + React)
 
-- Background in translation and content-writing
+- Background in translation, marketing and content creation
 
 Reach me at rwojciechnowak@gmail.com
 
