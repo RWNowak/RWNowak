@@ -1,7 +1,13 @@
 
-Currently studying, specializing in front-end development
+# Hi
 
-Background in translation and content-writing
+- 2nd year Information Technology & Econometry student
+
+- 🌱 Currently focusing on learning Web Development (Javascript + React)
+
+- Background in translation and content-writing
+
+Reach me at rwojciechnowak@gmail.com
 
 <!--
 **RWNowak/RWNowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
