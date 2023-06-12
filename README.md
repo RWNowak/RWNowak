@@ -3,7 +3,7 @@
 
 - 🌱 Currently focusing on learning Javascript + React
 
-- Background in translation, marketing and content creation
+- Background in translation, marketing and content writing
 
 Reach me at rwojciechnowak@gmail.com
 
