@@ -1,7 +1,7 @@
 
 - 2nd year of Information Technology & Econometry (University of Gdańsk)
 
-- 🌱 Currently focusing on learning Web Development (Javascript + React)
+- 🌱 Currently focusing on learning Javascript + React
 
 - Background in translation, marketing and content creation
 
