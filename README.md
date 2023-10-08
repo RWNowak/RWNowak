@@ -1,5 +1,5 @@
 
-- 2nd year of Information Technology & Econometry (University of Gdańsk)
+- 3nd year of Information Technology & Econometry (University of Gdańsk)
 
 - Background in translation, marketing and content writing
 
