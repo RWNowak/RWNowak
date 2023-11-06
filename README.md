@@ -2,9 +2,7 @@
 - 3nd year of Information Technology & Econometry (University of Gdańsk)
 
 - Background in translation, marketing and content writing
-
-Reach me at rwojciechnowak@gmail.com
-
+  
 <!--
 **RWNowak/RWNowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
